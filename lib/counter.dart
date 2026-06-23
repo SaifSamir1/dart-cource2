@@ -21,6 +21,7 @@ void main() {
   Counter c1 = Counter();
   Counter c2 = Counter();
   Counter c3 = Counter();
+  Counter c4 = Counter();
   
   print("Counter 1 ID: ${c1.id}"); // Output: Counter 1 ID: 1
   print("Counter 2 ID: ${c2.id}"); // Output: Counter 2 ID: 2
