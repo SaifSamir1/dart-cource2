@@ -13,3 +13,12 @@ void main(){
 
 // stagign area 
 // push to remote repo
+// PULL from remote repo
+// commit
+
+// Branches 
+
+
+// remote repo 
+// Pull Request 
+// Merge
